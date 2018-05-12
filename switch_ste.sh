@@ -23,6 +23,7 @@ switch_branches $BRANCH frameworks/av
 switch_branches $BRANCH frameworks/base
 switch_branches $BRANCH frameworks/native
 switch_branches $BRANCH system/core
+switch_branches $BRANCH .repo/local_manifests
 
 
 
